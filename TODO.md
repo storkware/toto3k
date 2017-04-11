@@ -1,9 +1,22 @@
 # Build prototype
-## play sound file 
-## browse and display music library
-## read file metadata
+## Play sound file 
+## Browse and display music library
+## Read file metadata
 
-# Decide on view framework
-## Vue
-## React
-## Angular2
+# Decide on technology stack
+
+## Decide on view framework
+### Vue
+### React
+### Angular2
+
+## TypeScript vs JS?
+
+## Utility libraries
+### Ramda / Lodash
+
+## CSS
+### Stylus
+
+## HTML
+### Pug
